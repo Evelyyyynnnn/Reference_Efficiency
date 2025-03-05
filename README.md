@@ -3,7 +3,7 @@ Welcome to enjoy the reference efficiency world
 
 This project is mainly used for improving your efficiency for reference because we all know that sometimes it's hard to copy every apa/mpa citation from scholar website like Google Scholar or IEEE.
 
-✨ So here I made the .py to quickly get down the references you want and transform it into the in-text citation format.
+✨ So here I made the .py to quickly get down the references you want and transform it into the in-text citation format in the `Reference_Citation.py`
 
 And I also include some other small projects like you could use for key words searching or helping yourself making the syllabus for the essay.
 
